@@ -56,5 +56,11 @@ namespace BilkentKafe
 
        
         }
+
+        private void btnAnaSayfa_Click(object sender, EventArgs e)
+        {
+            Close();
+            //DialogResult = DialogResult.Cancel; // close un farklı bir yolu
+        }
     }
 }

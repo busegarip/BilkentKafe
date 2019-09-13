@@ -122,6 +122,7 @@
             this.btnAnaSayfa.TabIndex = 6;
             this.btnAnaSayfa.Text = "<-- ANASAYFA DÖN";
             this.btnAnaSayfa.UseVisualStyleBackColor = false;
+            this.btnAnaSayfa.Click += new System.EventHandler(this.btnAnaSayfa_Click);
             // 
             // label3
             // 
