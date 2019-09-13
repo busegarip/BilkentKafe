@@ -60,7 +60,7 @@ namespace BilkentKafe
         private void btnAnaSayfa_Click(object sender, EventArgs e)
         {
             Close();
-            //DialogResult = DialogResult.Cancel; // close un farklı bir yolushow dialog olduğunda kullanılır eğer show olsaydı çalışmazdı.
+            //DialogResult = DialogResult.Cancel; // close un farklı bir yolu show dialog olduğunda kullanılır eğer show olsaydı çalışmazdı.
         }
     }
 }
